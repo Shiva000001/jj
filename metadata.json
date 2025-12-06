@@ -1,0 +1,8 @@
+{
+  "name": "Jarvis AI System",
+  "description": "An advanced, futuristic voice assistant with real-time internet access and system control capabilities. Features a holographic interface.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
